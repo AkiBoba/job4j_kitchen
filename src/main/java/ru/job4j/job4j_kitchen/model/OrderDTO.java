@@ -1,4 +1,4 @@
-package ru.job4j.job4j_kitchen.domain;
+package ru.job4j.job4j_kitchen.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
